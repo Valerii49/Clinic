@@ -1,0 +1,95 @@
+{
+	"doctors": [
+		{
+			"id": 1,
+			"isActive": true,
+			"name": "Mark Hill",
+			"position": "<p>Lorem ipsum dolor sit amet, conse ctetur.</p>",
+			"media": {
+				"avatar": "home/doctors/01.jpg",
+				"main": "home/doctors/big/01.png",
+				"gallery": {
+					"small": [
+						"common_gallery/01.jpg",
+						"common_gallery/06.jpg",
+						"common_gallery/05.jpg"
+					],
+					"big": [
+						"common_gallery/high/01-high.jpg",
+						"common_gallery/high/06-high.jpg",
+						"common_gallery/high/05-high.jpg"
+					]
+				}
+			},
+			"skils": {
+				"Liposuction": 80,
+				"Breast Augmentation": 90
+			},
+			"stat": {
+				"staf": 23,
+				"doctors": 56,
+				"visits": 86
+			}
+		},
+		{
+			"id": 2,
+			"isActive": false,
+			"name": "Jane Cullen",
+			"position": "<p>Lorem ipsum dolor sit amet, conse ctetur.</p>",
+			"media": {
+				"avatar": "home/doctors/02.jpg",
+				"main": "home/doctors/big/01.png",
+				"gallery": {
+					"small": [
+						"common_gallery/02.jpg",
+						"common_gallery/09.jpg",
+						"common_gallery/08.jpg",
+						"common_gallery/03.jpg"
+					],
+					"big": [
+						"common_gallery/high/02-high.jpg",
+						"common_gallery/high/09-high.jpg",
+						"common_gallery/high/08-high.jpg",
+						"common_gallery/high/03-high.jpg"
+					]
+				}
+			},
+			"skils": {
+				"Liposuction": 50
+			},
+			"stat": {
+				"staf": 20,
+				"visits": 46
+			}
+		},
+		{
+			"id": 3,
+			"isActive": false,
+			"name": "Annah Gaiver",
+			"position": "<p>Lorem ipsum dolor sit amet, conse ctetur.</p>",
+			"media": {
+				"avatar": "home/doctors/03.jpg",
+				"main": "home/doctors/big/01.png",
+				"gallery": {
+					"small": [
+						"common_gallery/04.jpg",
+						"common_gallery/07.jpg"
+					],
+					"big": [
+						"common_gallery/high/04-high.jpg",
+						"common_gallery/high/07-high.jpg"
+					]
+				}
+			},
+			"skils": {
+				"Liposuction": 10,
+				"Breast Augmentation": 50
+			},
+			"stat": {
+				"staf": 20,
+				"doctors": 56,
+				"visits": 46
+			}
+		}
+	]
+}
